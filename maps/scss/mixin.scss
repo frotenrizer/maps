@@ -1,0 +1,17 @@
+@mixin cuadro($fondo) {
+    background-color: #444;
+    width: 200px;
+    height: 200px;
+    margin-top : 5px;
+    padding: 10px;
+
+}
+.cuadro1{
+    @include cuadro(#111);
+}
+.cuadro2{
+    @include cuaddro(#222);
+}
+.cuadro3{ 
+    @include cuadro(#333);
+}

@@ -1,0 +1,26 @@
+.news-cards
+    .cuadro1{
+        background-color: #111;
+        width: 200px;
+        height: 200px;
+        margin-top : 5px;
+        padding: 10px;
+    }
+    .cuadro2{
+        background-color: #222;
+        width: 200px;
+        height: 200px;
+        margin-top : 5px;
+        padding: 10px;}
+        .cuadro3{
+            background-color: #333;
+            width: 200px;
+            height: 200px;
+            margin-top : 5px;
+            padding: 10px;}
+            .cuadro4{
+                background-color: #444;
+                width: 200px;
+                height: 200px;
+                margin-top : 5px;
+                padding: 10px;}
